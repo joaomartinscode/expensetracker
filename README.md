@@ -2,7 +2,7 @@
 <!----------------------------------------------------------------------------->
 [Button Icon]: https://img.shields.io/badge/-Live%20view-blueviolet
 
-![alt text](expensetracker.png)
+![expensetracker](expensetracker.png)
 
 ## Technologies
 Project is created with:
